@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+ 
+    color: rgb(113, 201, 252);
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+.first-div{
+    height:45rem;
+    width: 119.3rem;
+    background-color: rgb(3, 3, 3);
+    border-top: 10px solid red;
+    border-left: 10px solid red;
+}
+img{
+    height: 18rem;
+    margin-top: 20px;
+    border: 6px solid rgb(33, 174, 240) ;
+    border-radius: 50%;
+}
+.second-div{
+    text-align: center;
+  padding-top: 2rem;
+  width: 50rem;
+  
+
+  
+  margin: auto auto;
+}
+h1{
+   
+    font-weight: bolder;
+    padding-top: 1rem;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+}
+.first-para{ 
+    font-size: 2rem;
+   
+}
